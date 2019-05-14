@@ -1,0 +1,5 @@
+Run in Terminal: python main.py
+
+Please see the source code. I made an effort to write the code cleanly and added alot of documentation in there.
+At the bottom of the python file you can choose to run either the K-Means or Gaussian mixture function by commenting out the one you dont want.
+The parameters that you have to pass in are described in the source code.
